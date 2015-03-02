@@ -9,3 +9,4 @@ sudo apt-get install -y build-essential
 echo "--- Install npm packages ---"
 sudo npm install -g bower
 sudo npm install -g grunt-cli
+sudo npm install -g yo
